@@ -3,7 +3,6 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/logo.svg" alt="class logo" class="logo"/> Advanced JavaScript syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
